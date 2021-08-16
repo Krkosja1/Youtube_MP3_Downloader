@@ -1,4 +1,4 @@
-from GUI import *
+from src.GUI import *
 
 root = GUI()
 root.mainloop()

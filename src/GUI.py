@@ -1,4 +1,4 @@
-from downloader import *
+from src.downloader import *
 from tkinter import *
 
 class GUI(Tk):
